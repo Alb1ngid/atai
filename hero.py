@@ -90,3 +90,5 @@ print(villain)
 cosmic = CosmicHero("Кевин", "Супермен", "Суперсилы", 100000, "Справедливость", 100000, False)
 cosmic.crit2()
 print(cosmic)
+
+# 10 молодец
